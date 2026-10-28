@@ -10,7 +10,7 @@ Aplikasi Flutter sederhana yang menampilkan halaman utama katalog film, dibuat s
 
 ## Demo
 
-[Link video demo]([https://drive.google.com/xxxxx](https://drive.google.com/file/d/1goeLJxnSrhYsqn5nPPGwYya0l7SMT5XY/view?usp=sharing))
+[Link video demo]((https://drive.google.com/file/d/1goeLJxnSrhYsqn5nPPGwYya0l7SMT5XY/view?usp=sharing))
 
 ## Teknologi
 
